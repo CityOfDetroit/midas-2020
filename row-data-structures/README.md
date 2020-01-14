@@ -1,8 +1,8 @@
-# Centerline data structures
+# Right-of-way data structures
 
 ## Project statement
 
-We're developing a centerline file for use by the city, as we don't have a common centerline file; most users at the city are using some variant of the Michigan Geographic Framework, available [here](https://gis-michigan.opendata.arcgis.com/datasets/all-roads-v17a). Currently, we are strictly a consumer of the MGF but eventually we should be feeding updates from our internal centerline back to the MGF.
+We're developing our right-of-way data structures, including a centerline file for use by the city, as we don't have a common centerline file. Most users at the city are using some variant of the Michigan Geographic Framework, available [here](https://gis-michigan.opendata.arcgis.com/datasets/all-roads-v17a). Currently, we are strictly a consumer of the MGF but eventually we should be feeding updates from our internal centerline back to the MGF.
 
 Here's a few of the areas where we use this data:
 - 911/emergency services routing/geocoding
