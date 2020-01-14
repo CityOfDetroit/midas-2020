@@ -1,0 +1,3 @@
+# Base units assessment
+S
+Develop an automated way to compare all base unit files for address misalignment. Building footprint addresses, should match parcel addresses, should match street adresses, should match centerline road names. Can we establish a baseline for where we are at now...and then continue to measure how we are improving over time? Would offer a way to test major updates from data stewards and articulate scrubber/cleaning needs (ie when we get a parcel update from the assessor, or a footprint update from semcog, mgf update etc)
