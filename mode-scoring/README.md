@@ -1,11 +1,19 @@
+# Mode scoring
+
 The purpose of this project is to develop a scoring criteria to evaluate the quality of different mobility related services across Detroit. 
 
+## Project 1
 
-Project 1: Transit accessibility and transit quality index:
+Transit accessibility and transit quality index for:
+
 - Available bus routes
 - Service frequency
 - Rider safety
 - Proximity of stops/benches/shelters
 
+## Other possible projects 
 
-Project 2+: Other possible projects include indexes around parking, overall mobility, and walkability.
+Indexes around:
+- parking
+- overall mobility
+- walkability
